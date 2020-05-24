@@ -6,6 +6,7 @@ Orange
 Blue
 Green
 Yellow
+Indigo
 Red
 These are the colors of the rainbow
 And the Unicorn
